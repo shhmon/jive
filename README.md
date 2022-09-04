@@ -1,11 +1,12 @@
 # Jive
 
-A simple middleware tool for version controlling Ableton Live projects with git
+A simple middleware tool for version controlling Ableton Live projects with git. Not sure what this tool will turn out to be, as I'm writing this just to make my life easier.
 
 ## Setup
 
 1. Clone this repository
-2. Add an alias to your `~/.bash_profile`: `alias jive="python3 /path/to/repo/main.py "`
+2. Add an alias to your `~/.bash_profile`:
+    - `alias jive="python3 /path/to/repo/main.py "`
 
 ## Usage
 
