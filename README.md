@@ -14,5 +14,5 @@ Currently the tool doesnt do much except collect your live set dependencies and 
 
 - `jive init`: Initializes the .jive folder with a git repo inside
 - `jive collect`: Collects sample dependencies into local samples folder and updates references in .als files
-- `jive push`: Pushes the current project files to the .jive folder (translates .als files to .xml)
+- `jive shove`: Shoves the current project files to the .jive folder (translates .als files to .xml)
 - `jive <any git action>`: Executes the git action in the .jive folder

@@ -28,7 +28,7 @@ def init(args):
     git(['commit -m "jive init"'])
     print(f'Initialized Jive in {cwd}')
 
-@command('push')
+@command('shove')
 def push(args):
     cwd = os.getcwd()
     collector = Collector(cwd)
